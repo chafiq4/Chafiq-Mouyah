@@ -2,7 +2,7 @@
 
 🎓 **Élève ingénieur en Développement Digital & SI** – 3ᵉ année à l'EMSI Tanger  
 💼 **Technicien Spécialisé Full-Stack** passionné par le génie logiciel, les architectures distribuées et les systèmes d'information  
-🎯 **Objectif :** Concevoir et développer des solutions pérennes, performantes et innovantes (À la recherche d'un stage PFE 2026)
+🎯 **Objectif :** Concevoir et développer des solutions pérennes, performantes et innovantes (À la recherche d'un stage PFE 2027)
 
 ---
 
